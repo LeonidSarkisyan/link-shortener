@@ -1,0 +1,9 @@
+address: "localhost"
+port: "8000"
+
+mangodb:
+  name: "url-shortener"
+  host: "localhost"
+  port: "27017"
+  user: "admin"
+  pass: "password"
